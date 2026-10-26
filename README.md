@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Executive-Assistant?style=social" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Executive-Assistant?style=social" alt="GitHub Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -24,6 +27,8 @@ A comprehensive, curated collection of top-tier **AI Executive Assistants**, **a
 - [🔓 Open-Source AI Assistants & Scheduling Repositories](#-open-source-ai-assistants--scheduling-repositories)
 - [🎯 Key Selection Criteria & Evaluation](#-key-selection-criteria--evaluation)
 - [🤝 Contributing](#-contributing)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [📜 License](#-license)
 
 ---
@@ -109,6 +114,22 @@ Contributions are warmly welcomed! Please read the guidelines below before submi
    - For Open-Source additions: include the repository link, star count badge (`style=social&color=white`), tech stack, and summary.
 4. 🚀 Commit your changes (`git commit -m "feat: add [Tool Name]"`).
 5. 📬 Push to the branch and open a Pull Request!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Executive-Assistant&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Executive-Assistant&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring **Awesome AI Executive Assistant**! If you find this curated collection valuable or inspiring, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** it with colleagues, founders, and your developer network.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing curation and maintenance, visit my [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) — every bit of encouragement fuels further open-source research and community guides!
 
 ---
 
