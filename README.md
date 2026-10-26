@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Executive-Assistant?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Executive-Assistant?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Executive-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Executive-Assistant?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
@@ -62,31 +62,31 @@ Explore autonomous, self-hostable, and hackable open-source frameworks, agentic 
 
 > Sorted descending by **GitHub Stargazers count** (badges link directly to stargazers):
 
-1. **[LobeHub](https://github.com/lobehub/lobehub)** [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social&color=white)](https://github.com/lobehub/lobehub/stargazers) 🌟
+1. **[LobeHub](https://github.com/lobehub/lobehub)** [![GitHub_Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social&color=white)](https://github.com/lobehub/lobehub/stargazers) 🌟
    - *Description:* Autonomous Chief Agent Operator platform that organizes, hires, schedules, and reports on 24/7 AI teams across multiple roles.
    - *Tech Stack:* TypeScript, Next.js, OpenAI/Anthropic APIs, Docker.
 
-2. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) 📅
+2. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) 📅
    - *Description:* Open-source scheduling infrastructure for everyone with native AI booking primitives, cal-ai agents, and enterprise routing.
    - *Tech Stack:* TypeScript, Next.js, Prisma, Tailwind CSS, tRPC.
 
-3. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) 🧠
+3. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) 🧠
    - *Description:* An open-source, self-hostable AI second brain and personal assistant that automates research, schedules tasks, and organizes documents.
    - *Tech Stack:* Python, FastAPI, PyTorch, React, Local LLMs (Llama, Mistral, Qwen).
 
-4. **[SenteLabsAI / OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)** [![GitHub stars](https://img.shields.io/github/stars/SenteLabsAI/OpenExecutive?style=social&color=white)](https://github.com/SenteLabsAI/OpenExecutive/stargazers) 👔
+4. **[SenteLabsAI / OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)** [![GitHub_Stars](https://img.shields.io/github/stars/SenteLabsAI/OpenExecutive?style=social&color=white)](https://github.com/SenteLabsAI/OpenExecutive/stargazers) 👔
    - *Description:* An AI-powered virtual executive team featuring a single unified executive persona supported by 8 specialized multi-agent domain experts.
    - *Tech Stack:* Python, FastAPI, Next.js, Multi-Agent Architecture.
 
-5. **[LangChain Executive AI Assistant (EAIA)](https://github.com/langchain-ai/executive-ai-assistant)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/executive-ai-assistant?style=social&color=white)](https://github.com/langchain-ai/executive-ai-assistant/stargazers) 🤖
+5. **[LangChain Executive AI Assistant (EAIA)](https://github.com/langchain-ai/executive-ai-assistant)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/executive-ai-assistant?style=social&color=white)](https://github.com/langchain-ai/executive-ai-assistant/stargazers) 🤖
    - *Description:* Production-ready LangGraph reference architecture implementing autonomous email triage, calendar gatekeeping, and meeting briefings.
    - *Tech Stack:* Python, LangGraph, LangChain, Gmail API, Google Calendar API.
 
-6. **[mgonto / executive-assistant-skills](https://github.com/mgonto/executive-assistant-skills)** [![GitHub stars](https://img.shields.io/github/stars/mgonto/executive-assistant-skills?style=social&color=white)](https://github.com/mgonto/executive-assistant-skills/stargazers) 🛠️
+6. **[mgonto / executive-assistant-skills](https://github.com/mgonto/executive-assistant-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/mgonto/executive-assistant-skills?style=social&color=white)](https://github.com/mgonto/executive-assistant-skills/stargazers) 🛠️
    - *Description:* Curated OpenClaw executive skill collection designed to automate executive assistant duties, meeting prep, and executive digests.
    - *Tech Stack:* Python, OpenClaw Agent Skills, LLM Tool Calling.
 
-7. **[AutoPhd-org / schedule-everything](https://github.com/AutoPhd-org/schedule-everything)** [![GitHub stars](https://img.shields.io/github/stars/AutoPhd-org/schedule-everything?style=social&color=white)](https://github.com/AutoPhd-org/schedule-everything/stargazers) ⏱️
+7. **[AutoPhd-org / schedule-everything](https://github.com/AutoPhd-org/schedule-everything)** [![GitHub_Stars](https://img.shields.io/github/stars/AutoPhd-org/schedule-everything?style=social&color=white)](https://github.com/AutoPhd-org/schedule-everything/stargazers) ⏱️
    - *Description:* Lightweight local engine for programmatic scheduling and automated task queue execution on your personal workstation.
    - *Tech Stack:* Python, AsyncIO, Local Process Scheduling.
 
@@ -111,7 +111,7 @@ Contributions are warmly welcomed! Please read the guidelines below before submi
 2. 🌿 Create your feature branch (`git checkout -b feature/add-new-assistant`).
 3. 📝 Follow existing formatting:
    - For SaaS additions: include exact tier pricing, precise free tier/trial limits, company scale, and link to official domains.
-   - For Open-Source additions: include the repository link, star count badge (`style=social&color=white`), tech stack, and summary.
+   - For Open-Source additions: include the repository link, Stars_Count badge (`style=social&color=white`), tech stack, and summary.
 4. 🚀 Commit your changes (`git commit -m "feat: add [Tool Name]"`).
 5. 📬 Push to the branch and open a Pull Request!
 
