@@ -174,7 +174,7 @@
     <g transform="translate(600, 345)" text-anchor="middle">
       <rect x="-320" y="-16" width="640" height="32" rx="16" fill="#0f172a" fill-opacity="0.8" stroke="#334155" stroke-width="0.8" />
       <text y="5" class="badge-text" fill="#94a3b8">
-        📊 SaaS Valuations &amp; ARR &nbsp;|&nbsp; 💰 Transparent Pricing &nbsp;|&nbsp; 🌟 Open-Source Stargazers
+        📊 SaaS Valuations &amp; ARR &#160;|&#160; 💰 Transparent Pricing &#160;|&#160; 🌟 Open-Source Stargazers
       </text>
     </g>
   </g>
